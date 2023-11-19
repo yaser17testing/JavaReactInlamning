@@ -1,0 +1,301 @@
+/*Testimonal section*/
+.test {
+    background-color: RGBA(240, 208, 130, 0.93);
+  }
+  .test .container .Mamma {
+    position: relative;
+    top: 0px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 600px;
+    width: 950px;
+    background-color: white;
+  }
+  .test .container .Mamma .Rubriktest {
+    text-align: center;
+    position: relative;
+    top: 70px;
+    left: 300px;
+    width: 370px;
+    height: 100px;
+  }
+  .test .container .Mamma .Rubriktest p {
+    font-family: "Inter";
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 7px;
+    font-style: normal;
+    text-align: center;
+    letter-spacing: -1px;
+    color: #f94d1c;
+  }
+  .test .container .Mamma .Rubriktest h4 {
+    font-family: "DM Sans";
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 25px;
+    font-style: normal;
+    text-align: center;
+    color: #191919;
+    letter-spacing: -1px;
+  }
+  .test .container .Mamma .barn1 {
+    position: relative;
+    height: 250px;
+    width: 250px;
+    right: 5px;
+    top: 183px;
+  }
+  .test .container .Mamma .barn1 .stjarna {
+    top: 25px;
+    position: relative;
+    width: 90px;
+    height: 20px;
+  }
+  .test .container .Mamma .barn1 .stjarna i {
+    position: relative;
+    bottom: 5px;
+    color: #F94D1C;
+    font-size: 8px;
+    gap: 6px;
+    letter-spacing: 2px;
+  }
+  .test .container .Mamma .barn1 .frie {
+    position: relative;
+    height: 30px;
+    width: 30px;
+    bottom: 0px;
+    top: 0px;
+    color: #F94D1C;
+  }
+  .test .container .Mamma img {
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top: 40px;
+  }
+  .test .container .Mamma .rubriktext {
+    position: relative;
+    top: 30px;
+    height: 125px;
+    width: 195px;
+    text-align: left;
+    color: firebrick;
+  }
+  .test .container .Mamma .rubriktext p {
+    font-family: "Inter";
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 24px;
+    font-style: italic;
+    text-align: left;
+    letter-spacing: -1px;
+    color: #191919;
+  }
+  .test .container .Mamma .hec2 {
+    width: 190px;
+    height: 50px;
+    position: relative;
+    left: 50px;
+    bottom: 10px;
+  }
+  .test .container .Mamma .hec2 h5 {
+    position: relative;
+    top: 10px;
+    font-family: "DM Sans";
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 13px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+  }
+  .test .container .Mamma .hec2 p {
+    position: relative;
+    top: 5px;
+    font-family: "Inter";
+    font-size: 10px;
+    font-weight: 600;
+    line-height: 15px;
+    font-style: normal;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #f94d1c;
+  }
+  .test .container .barn2 {
+    position: relative;
+    right: 30px;
+    bottom: 80px;
+    height: 250px;
+    width: 250px;
+    top: 183px;
+  }
+  .test .container .barn2 .stjarna {
+    top: 25px;
+    position: relative;
+    width: 90px;
+    height: 20px;
+  }
+  .test .container .barn2 .stjarna i {
+    position: relative;
+    bottom: 5px;
+    color: #F94D1C;
+    font-size: 8px;
+    gap: 6px;
+    letter-spacing: 2px;
+  }
+  .test .container .barn2 img {
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top: 40px;
+  }
+  .test .container .barn2 .rubriktext {
+    height: 125px;
+    width: 195px;
+    text-align: left;
+    color: firebrick;
+  }
+  .test .container .barn2 .rubriktext p {
+    font-family: "Inter";
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 24px;
+    font-style: italic;
+    text-align: left;
+    letter-spacing: -1px;
+    color: #191919;
+  }
+  .test .container .barn2 .hec {
+    width: 190px;
+    height: 50px;
+    position: relative;
+    left: 50px;
+    bottom: 10px;
+  }
+  .test .container .barn2 .hec h5 {
+    position: relative;
+    top: 10px;
+    font-family: "DM Sans";
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 13px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+  }
+  .test .container .barn2 .hec p {
+    position: relative;
+    top: 5px;
+    font-family: "Inter";
+    font-size: 10px;
+    font-weight: 600;
+    line-height: 15px;
+    font-style: normal;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #f94d1c;
+  }
+  .test .container .barn3 {
+    position: relative;
+    left: 100px;
+    bottom: 117px;
+    height: 250px;
+    width: 250px;
+  }
+  .test .container .barn3 .stjarna {
+    top: 25px;
+    position: relative;
+    width: 90px;
+    height: 20px;
+  }
+  .test .container .barn3 .stjarna i {
+    position: relative;
+    bottom: 5px;
+    color: #F94D1C;
+    font-size: 8px;
+    gap: 6px;
+    letter-spacing: 2px;
+  }
+  .test .container .barn3 img {
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top: 40px;
+  }
+  .test .container .barn3 .rubriktext {
+    height: 125px;
+    width: 195px;
+    text-align: left;
+    color: firebrick;
+  }
+  .test .container .barn3 .rubriktext p {
+    font-family: "Inter";
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 24px;
+    font-style: italic;
+    text-align: left;
+    letter-spacing: -1px;
+    color: #191919;
+  }
+  .test .container .barn3 .hec {
+    width: 190px;
+    height: 50px;
+    position: relative;
+    left: 50px;
+    bottom: 10px;
+  }
+  .test .container .barn3 .hec h5 {
+    position: relative;
+    top: 10px;
+    font-family: "DM Sans";
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 13px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+  }
+  .test .container .barn3 .hec p {
+    position: relative;
+    top: 5px;
+    font-family: "Inter";
+    font-size: 10px;
+    font-weight: 600;
+    line-height: 15px;
+    font-style: normal;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #f94d1c;
+  }
+  .test .knappemork {
+    position: relative;
+    height: 50px;
+    width: 170px;
+    bottom: 110px;
+    left: 420px;
+  }
+  .test .knappemork .btn-client {
+    position: relative;
+    top: 5px;
+    border: 1px solid #191919;
+    background-color: #191919;
+    color: white;
+    text-decoration: none;
+    padding: 8px 15px;
+    font-weight: 600;
+    border-radius: 25px;
+    font-size: 12px;
+  }
+  .test .knappemork .btn-client i {
+    margin-left: 8px;
+    font-size: 0.9em;
+  }
+  .test .knappemork .btn-client:hover {
+    background-color: white;
+    border: 1px solid #191919;
+    color: #191919;
+  }
+
+

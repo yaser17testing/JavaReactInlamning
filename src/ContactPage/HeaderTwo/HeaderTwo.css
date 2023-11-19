@@ -1,0 +1,30 @@
+/*Contact*/
+.contact {
+    background-color: #F0EFE9;
+  }
+  .contact .lin {
+    position: relative;
+    left: 50px;
+  }
+  .contact .lin a {
+    color: #191919;
+    text-decoration: none;
+    margin-right: 5px;
+    font-weight: normal;
+  }
+  .contact .lin .fricontact {
+    font-weight: bold;
+  }
+  .contact a:hover {
+    color: #191919;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .background {
+    height: 200px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

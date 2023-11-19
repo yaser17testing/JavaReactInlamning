@@ -1,0 +1,148 @@
+/*Footer*/
+.footer {
+    background-color: #0E1021;
+  }
+  
+  .backgroundfot {
+    width: 1000px;
+    height: 300px;
+    background-color: #0E1021;
+  }
+  
+  .fatherfooter {
+    position: relative;
+    left: 100px;
+    width: 1000px;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0E1021;
+  }
+  .fatherfooter .fot-one {
+    width: 200px;
+    height: 200px;
+  }
+  .fatherfooter .fot-one img {
+    position: relative;
+    height: 40px;
+    width: 110px;
+  }
+  .fatherfooter .fot-one p {
+    position: relative;
+    top: 5px;
+    font-family: "Inter";
+    font-size: 10px;
+    font-weight: normal;
+    line-height: 26px;
+    font-style: normal;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.7);
+  }
+  .fatherfooter .fot-two {
+    width: 130px;
+    height: 200px;
+  }
+  .fatherfooter .fot-two p {
+    position: relative;
+    left: 30px;
+    font-family: "DM Sans";
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 33px;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .fatherfooter .fot-two ul {
+    font-family: "Inter";
+    font-size: 9px;
+    font-weight: 500;
+    line-height: 10px;
+    font-style: normal;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.7);
+  }
+  .fatherfooter .fot-three {
+    width: 130px;
+    height: 200px;
+  }
+  .fatherfooter .fot-three p {
+    position: relative;
+    left: 30px;
+    font-family: "DM Sans";
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 33px;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .fatherfooter .fot-three ul {
+    font-family: "Inter";
+    font-size: 9px;
+    font-weight: 500;
+    line-height: 10px;
+    font-style: normal;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.7);
+  }
+  .fatherfooter .fot-four {
+    width: 130px;
+    height: 200px;
+  }
+  .fatherfooter .fot-four p {
+    position: relative;
+    left: 30px;
+    font-family: "DM Sans";
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 33px;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .fatherfooter .fot-four ul {
+    font-family: "Inter";
+    font-size: 9px;
+    font-weight: 500;
+    line-height: 10px;
+    font-style: normal;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.7);
+  }
+  .fatherfooter .fot-five {
+    width: 130px;
+    height: 200px;
+  }
+  .fatherfooter .fot-five p {
+    position: relative;
+    left: 30px;
+    font-family: "DM Sans";
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 33px;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .fatherfooter .fot-five ul {
+    font-family: "Inter";
+    font-size: 9px;
+    font-weight: 500;
+    line-height: 10px;
+    font-style: normal;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.7);
+  }
+  .fatherfooter .waves {
+    height: 260px;
+    width: 130px;
+  }
+  .fatherfooter .waves img {
+    width: 320px;
+    height: 100px;
+    top: 200px;
+    right: 140px;
+    position: relative;
+  }

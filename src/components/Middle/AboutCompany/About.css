@@ -1,0 +1,199 @@
+/*About company section*/
+.AboutAbout .container .grandpa {
+    margin-top: 80px;
+    position: relative;
+    left: 70px;
+    width: 850px;
+    display: grid;
+    height: 450px;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+  }
+  .AboutAbout .container .Textbox {
+    position: relative;
+    left: 10px;
+    height: 400px;
+    width: 300px;
+    text-align: center;
+  }
+  .AboutAbout .container .Textbox .rubrik {
+    font-family: "Inter";
+    font-size: 14px;
+    font-weight: 800;
+    line-height: 22px;
+    font-style: normal;
+    text-align: left;
+    color: #f94d1c;
+  }
+  .AboutAbout .container .Textbox h4 {
+    position: relative;
+    bottom: 10px;
+    height: 100px;
+    width: 300px;
+    font-family: "DM Sans";
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 27px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+  }
+  .AboutAbout .container .Textbox .undertext {
+    height: 70px;
+    width: 290px;
+    font-family: "Inter";
+    font-size: 10px;
+    font-weight: normal;
+    line-height: 18px;
+    font-style: normal;
+    text-align: left;
+    color: rgba(25, 25, 25, 0.7);
+  }
+  .AboutAbout .container .Textbox .undertext2 {
+    height: 80px;
+    width: 290px;
+    font-family: "Inter";
+    font-size: 10px;
+    font-weight: normal;
+    line-height: 18px;
+    font-style: normal;
+    text-align: left;
+    color: rgba(25, 25, 25, 0.7);
+  }
+  .AboutAbout .container .Textbox .knapp1 {
+    position: relative;
+    bottom: 0px;
+    width: 130px;
+    height: 40px;
+    border-radius: 30%;
+  }
+  .AboutAbout .container .Textbox .knapp1 .btn-about {
+    background-color: #191919;
+    border: 1px solid #191919;
+    color: white;
+    text-decoration: none;
+    padding: 8px 12px;
+    font-weight: 600;
+    border-radius: 25px;
+    font-size: 12px;
+  }
+  .AboutAbout .container .Textbox .knapp1 .btn-about i {
+    margin-left: 8px;
+    font-size: 0.9em;
+  }
+  .AboutAbout .container .Textbox .knapp1 .btn-about:hover {
+    background-color: white;
+    border: 1px solid #191919;
+    color: #191919;
+  }
+  .AboutAbout .container .Textbox .knapp2 {
+    position: relative;
+    width: 135px;
+    height: 40px;
+    border-radius: 0%;
+    left: 140px;
+    bottom: 40px;
+  }
+  .AboutAbout .container .Textbox .knapp2 p {
+    position: relative;
+    bottom: 18px;
+    left: 50px;
+    height: 40px;
+    width: 60px;
+    font-family: "Inter";
+    font-size: 10px;
+    font-weight: normal;
+    line-height: 16px;
+    font-style: normal;
+    text-align: center;
+    color: #191919;
+  }
+  .AboutAbout .container .Textbox .knapp2 .btn-abtwo {
+    position: relative;
+    right: 40px;
+    background-color: white;
+    border: 1px solid #191919;
+    color: #191919;
+    text-decoration: none;
+    padding: 7px 9px;
+    font-weight: 600;
+    border-radius: 25px;
+    font-size: 12px;
+  }
+  .AboutAbout .container .Textbox .knapp2 .btn-abtwo i {
+    margin-left: 3px;
+    font-size: 0.9em;
+  }
+  .AboutAbout .container .Textbox .knapp2 .btn-abtwo:hover {
+    background-color: #191919;
+    border: 1px solid #191919;
+    color: #e5eaec;
+  }
+  .AboutAbout .container .blixtimg {
+    position: relative;
+    height: 50px;
+    width: 50px;
+    left: 50px;
+    z-index: 2;
+    bottom: 480px;
+  }
+  .AboutAbout .container .blixtimg img {
+    width: 100px;
+  }
+  .AboutAbout .container .aboutus {
+    position: relative;
+    left: 50px;
+  }
+  .AboutAbout .container .aboutus img {
+    height: 80%;
+    width: 71%;
+  }
+  .AboutAbout .container .aboutus .boxenibild {
+    position: relative;
+    height: 120px;
+    width: 215px;
+    background-color: #BEEBFF;
+    z-index: 1;
+    right: 30px;
+    bottom: 150px;
+  }
+  .AboutAbout .container .aboutus .boxenibild .namn {
+    position: relative;
+    left: 15px;
+    top: 20px;
+    height: 35px;
+    width: 180px;
+  }
+  .AboutAbout .container .aboutus .boxenibild .namn .black {
+    color: #191919;
+    font-family: "DM Sans";
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 30px;
+    font-style: normal;
+    text-align: left;
+  }
+  .AboutAbout .container .aboutus .boxenibild .namn .orange {
+    font-family: "DM Sans";
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 30px;
+    font-style: normal;
+    text-align: left;
+    color: #f94d1c;
+  }
+  .AboutAbout .container .aboutus .boxenibild .litentext {
+    position: relative;
+    left: 15px;
+    top: 5px;
+    height: 35px;
+    width: 190px;
+    font-family: "Inter";
+    font-size: 9px;
+    font-weight: 500;
+    line-height: 16px;
+    font-style: italic;
+    text-align: left;
+    color: #191919;
+  }
+  

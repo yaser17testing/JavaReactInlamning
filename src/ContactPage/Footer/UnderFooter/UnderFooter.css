@@ -1,0 +1,39 @@
+/*UnderFooter*/
+.underfooter {
+    background-color: #0E1021;
+  }
+  
+  .underbackground {
+    width: 1300px;
+    background-color: #0E1021;
+  }
+  .underbackground .underunder {
+    position: relative;
+    left: 100px;
+    top: 0px;
+    height: 50px;
+    width: 870px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .underbackground .underunder .undertext {
+    position: relative;
+    top: 20px;
+    width: 300px;
+    height: 20px;
+    font-family: "Inter";
+    font-size: 10px;
+    font-weight: normal;
+    line-height: 16px;
+    font-style: normal;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.7);
+  }
+  .underbackground .underunder .socialone {
+    height: 20px;
+    position: relative;
+    top: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+  }

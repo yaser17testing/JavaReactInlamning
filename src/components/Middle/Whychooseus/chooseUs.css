@@ -1,0 +1,116 @@
+/*Why choose ut section*/
+.album .container .Father {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    height: 450px;
+    width: 1000px;
+  }
+  .album .container .Father .son1 {
+    position: relative;
+    left: 80px;
+    top: 20px;
+    height: 440px;
+    width: 300px;
+  }
+  .album .container .Father .son1 .testrubrik {
+    position: relative;
+    top: 10px;
+    width: 100px;
+    height: 30px;
+    font-family: "Inter";
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 16px;
+    font-style: normal;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #f94d1c;
+  }
+  .album .container .Father .son1 h4 {
+    position: relative;
+    bottom: 10px;
+    width: 240px;
+    height: 100px;
+    font-family: "DM Sans";
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 30px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+  }
+  .album .container .Father .son1 .list {
+    position: relative;
+    bottom: 10px;
+    right: 30px;
+    height: 60px;
+    width: 260px;
+  }
+  .album .container .Father .son1 .list .ett {
+    position: relative;
+    left: 35px;
+    width: 150px;
+    height: 20px;
+    bottom: 35px;
+    font-family: "DM Sans";
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 20px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+  }
+  .album .container .Father .son1 .list .tva {
+    position: relative;
+    left: 35px;
+    bottom: 45px;
+    width: 200px;
+    height: 20px;
+    font-family: "Inter";
+    font-size: 10px;
+    font-weight: normal;
+    line-height: 10px;
+    font-style: normal;
+    text-align: left;
+    letter-spacing: 0px;
+    color: rgba(25, 25, 25, 0.7);
+  }
+  .album .container .Father .son1 .list .fontbild {
+    position: relative;
+    top: 10px;
+    width: 25px;
+    height: 40px;
+    font-size: 12px;
+  }
+  .album .container .Father .son1 .list .fontbild i {
+    font-size: 10px;
+  }
+  .album .container .Father .son2 {
+    position: relative;
+    top: 50px;
+    right: 170px;
+    border: black solid;
+    width: 400px;
+    height: 330px;
+  }
+  .album .container .Father .son2 img {
+    height: 320px;
+    width: 100%;
+  }
+  .album .container .Father .boxeni {
+    position: relative;
+    background-color: #F0EFE9;
+    height: 250px;
+    width: 600px;
+    z-index: -1;
+    left: 400px;
+    bottom: 290px;
+  }
+
+
+  .fri1{
+
+
+
+  }

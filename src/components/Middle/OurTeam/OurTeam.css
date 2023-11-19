@@ -1,0 +1,215 @@
+/*Meet Our Team section*/
+.Title-Title {
+    background-color: RGBA(240, 208, 130, 0.93);
+  }
+  .Title-Title .container .frifrifri {
+    position: relative;
+    width: 1000px;
+    height: 700px;
+  }
+  .Title-Title .container .frifrifri .orangei {
+    width: 150px;
+    height: 50px;
+    position: relative;
+    left: 100px;
+    top: 60px;
+  }
+  .Title-Title .container .frifrifri .orangei p {
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    font-style: normal;
+    text-align: left;
+    color: #f94d1c;
+  }
+  .Title-Title .container .frifrifri .rubrik {
+    position: relative;
+    bottom: 10px;
+  }
+  .Title-Title .container .frifrifri .rubrik h2 {
+    position: absolute;
+    width: 347px;
+    height: 60px;
+    font-family: "DM Sans";
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 35px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+    top: 50px;
+    left: 100px;
+  }
+  .Title-Title .container .frifrifri .knappe {
+    position: relative;
+    width: 150px;
+    height: 50px;
+    left: 750px;
+    top: 50px;
+  }
+  .Title-Title .container .frifrifri .knappe .btn-testi {
+    border: 1px solid #191919;
+    color: #191919;
+    text-decoration: none;
+    padding: 8px 22px;
+    font-weight: 600;
+    border-radius: 25px;
+    font-size: 12px;
+  }
+  .Title-Title .container .frifrifri .knappe .btn-testi i {
+    margin-left: 8px;
+    font-size: 0.9em;
+  }
+  .Title-Title .container .frifrifri .knappe .btn-testi:hover {
+    background-color: #191919;
+    border: 1px solid #191919;
+    color: #e5eaec;
+  }
+  .Title-Title .container .frifrifri .parent {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 5px;
+    background-color: RGBA(240, 208, 130, 0.93);
+    width: 810px;
+    height: 450px;
+    top: 100px;
+    left: 100px;
+  }
+  .Title-Title .container .frifrifri .parent .bild-ett {
+    height: 400px;
+    width: 180px;
+  }
+  .Title-Title .container .frifrifri .parent .bild-ett h6 {
+    position: relative;
+    top: 20px;
+    width: 128px;
+    height: 30px;
+    font-family: "DM Sans";
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 33px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+  }
+  .Title-Title .container .frifrifri .parent .bild-ett p {
+    position: relative;
+    top: 15px;
+    width: 157px;
+    height: 31px;
+    font-family: "Inter";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 28px;
+    font-style: normal;
+    text-align: left;
+    color: rgba(25, 25, 25, 0.7);
+  }
+  .Title-Title .container .frifrifri .parent .bild-ett img {
+    height: 60%;
+    width: 100%;
+  }
+  .Title-Title .container .frifrifri .parent .bild-två {
+    height: 400px;
+    width: 180px;
+  }
+  .Title-Title .container .frifrifri .parent .bild-två h6 {
+    position: relative;
+    top: 20px;
+    width: 128px;
+    height: 30px;
+    font-family: "DM Sans";
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 33px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+  }
+  .Title-Title .container .frifrifri .parent .bild-två p {
+    position: relative;
+    top: 15px;
+    width: 157px;
+    height: 31px;
+    font-family: "Inter";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 28px;
+    font-style: normal;
+    text-align: left;
+    color: rgba(25, 25, 25, 0.7);
+  }
+  .Title-Title .container .frifrifri .parent .bild-två img {
+    height: 60%;
+    width: 100%;
+  }
+  .Title-Title .container .frifrifri .parent .bild-tre {
+    height: 400px;
+    width: 180px;
+  }
+  .Title-Title .container .frifrifri .parent .bild-tre h6 {
+    position: relative;
+    top: 20px;
+    width: 134px;
+    height: 30px;
+    font-family: "DM Sans";
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 33px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+  }
+  .Title-Title .container .frifrifri .parent .bild-tre p {
+    position: relative;
+    top: 15px;
+    width: 157px;
+    height: 31px;
+    font-family: "Inter";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 28px;
+    font-style: normal;
+    text-align: left;
+    color: rgba(25, 25, 25, 0.7);
+  }
+  .Title-Title .container .frifrifri .parent .bild-tre img {
+    height: 60%;
+    width: 100%;
+  }
+  .Title-Title .container .frifrifri .parent .bild-fyra {
+    height: 400px;
+    width: 180px;
+  }
+  .Title-Title .container .frifrifri .parent .bild-fyra h6 {
+    position: relative;
+    top: 20px;
+    width: 128px;
+    height: 30px;
+    font-family: "DM Sans";
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 33px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+  }
+  .Title-Title .container .frifrifri .parent .bild-fyra p {
+    position: relative;
+    top: 15px;
+    width: 157px;
+    height: 31px;
+    font-family: "Inter";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 28px;
+    font-style: normal;
+    text-align: left;
+    color: rgba(25, 25, 25, 0.7);
+  }
+  .Title-Title .container .frifrifri .parent .bild-fyra img {
+    height: 60%;
+    width: 100%;
+  }

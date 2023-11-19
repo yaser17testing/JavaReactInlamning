@@ -1,0 +1,126 @@
+
+/*Formular*/
+.formular {
+    height: 600px;
+  }
+  
+  .search1 {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .search1 .inner {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 150px;
+    background-color: #F0EFE9;
+    bottom: 0px;
+    height: 500px;
+    width: 700px;
+    border: 1px solid black;
+  }
+  .search1 .inner .text {
+    position: relative;
+    margin-top: 60px;
+    bottom: 20px;
+    height: 70px;
+    width: 280px;
+   
+  }
+  .search1 .inner .searchboxen1 {
+    position: relative;
+    margin: 5px 0px;
+  }
+  .search1 .inner .searchboxen1 .searchingbox1 {
+    position: relative;
+    width: 520px;
+    height: 40px;
+    border-radius: 25px;
+    padding: 5px 10px;
+    background-color: white;
+  }
+  .search1 .inner .searchboxen1 .searchingbox1 i {
+    position: absolute;
+    top: 10px;
+    left: 3px;
+  }
+  .search1 .inner .searchboxen1 .searchingbox1 input {
+    width: 90%;
+    border: none;
+    outline: none;
+    background-color: white;
+    font-size: 14px;
+    margin-left: 12px;
+  }
+  .search1 .inner .searchboxen2 {
+    margin: 5px 0px;
+    position: relative;
+    width: 520px;
+    height: 40px;
+    border-radius: 25px;
+    padding: 5px 10px;
+    background-color: white;
+  }
+  .search1 .inner .searchboxen2 i {
+    position: absolute;
+    top: 10px;
+    left: 3px;
+  }
+  .search1 .inner .searchboxen2 input {
+    width: 90%;
+    border: none;
+    outline: none;
+    background-color: white;
+    font-size: 14px;
+    margin-left: 12px;
+  }
+  .search1 .inner .searchboxen3 {
+    margin: 5px 0px;
+    position: relative;
+    width: 520px;
+    height: 110px;
+    border-radius: 25px;
+    padding: 5px 10px;
+    background-color: white;
+  }
+  .search1 .inner .searchboxen3 i {
+    position: absolute;
+    top: 10px;
+    left: 3px;
+  }
+  .search1 .inner .searchboxen3 input {
+    width: 90%;
+    border: none;
+    outline: none;
+    background-color: white;
+    font-size: 14px;
+    margin-left: 12px;
+  }
+  
+  .btn-yellow1 {
+    width: 520px;
+    background-color: #F9D783;
+    border: 1px solid #F9D783;
+    color: #191919;
+    text-decoration: none;
+    padding: 8px 25px;
+    font-weight: 600;
+    border-radius: 25px;
+    font-size: 16px;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .btn-yellow1 i {
+    margin-left: 8px;
+    font-size: 11px;
+  }
+  
+  .btn-yellow1:hover {
+    background-color: #191919;
+    border: 1px solid #191919;
+    color: #e5eaec;
+  }

@@ -1,0 +1,363 @@
+/*Article & News Section*/
+.GetEvery .container .parentmothernews {
+    width: 1000px;
+    height: 550px;
+  }
+  .GetEvery .container .parentmothernews .rubriken {
+    position: relative;
+    top: 20px;
+    height: 60px;
+    width: 500px;
+    left: 100px;
+  }
+  .GetEvery .container .parentmothernews .rubriken h5 {
+    font-family: "DM Sans";
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 55px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+  }
+  .GetEvery .container .parentmothernews .rubrikp {
+    position: relative;
+    top: 20px;
+    left: 100px;
+    width: 120px;
+    height: 30px;
+  }
+  .GetEvery .container .parentmothernews .rubrikp p {
+    font-family: "Inter";
+    font-size: 12px;
+    font-weight: 800;
+    line-height: 17px;
+    font-style: normal;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #f94d1c;
+  }
+  .GetEvery .container .parentmothernews .knappennu {
+    position: relative;
+    width: 150px;
+    height: 50px;
+    z-index: 4;
+    top: 120px;
+    left: 740px;
+  }
+  .GetEvery .container .parentmothernews .knappennu .btn-everyarticle {
+    position: relative;
+    left: 0px;
+    border: 1px solid #191919;
+    color: #191919;
+    text-decoration: none;
+    padding: 8px 22px;
+    font-weight: 600;
+    border-radius: 25px;
+    font-size: 12px;
+  }
+  .GetEvery .container .parentmothernews .knappennu .btn-everyarticle i {
+    margin-left: 8px;
+    font-size: 0.9em;
+  }
+  .GetEvery .container .parentmothernews .knappennu .btn-everyarticle:hover {
+    background-color: #191919;
+    border: 1px solid #191919;
+    color: #e5eaec;
+  }
+  .GetEvery .container .Newsparent {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    position: relative;
+    left: 100px;
+    bottom: 160px;
+    width: 800px;
+    height: 500px;
+  }
+  .GetEvery .container .Newsparent .rubriken {
+    height: 80px;
+    width: 300px;
+    border: #000000 solid;
+  }
+  .GetEvery .container .Newsparent .rubrikp {
+    position: relative;
+    left: 200px;
+    width: 100px;
+    height: 60px;
+    border: #000000 solid;
+  }
+  .GetEvery .container .Newsparent .rubrikh {
+    position: relative;
+    width: 300px;
+    height: 70px;
+    border: #000000 solid;
+    left: 200px;
+  }
+  .GetEvery .container .Newsparent .newsone {
+    position: relative;
+    top: 200px;
+    width: 250px;
+    height: 250px;
+  }
+  .GetEvery .container .Newsparent .newsone h6 {
+    position: relative;
+    bottom: 45px;
+    height: 40px;
+    width: 170px;
+    font-family: "DM Sans";
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 20px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+  }
+  .GetEvery .container .Newsparent .newsone .one {
+    bottom: 30px;
+    position: relative;
+    width: 70px;
+    height: 20px;
+    font-family: "Inter";
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 16px;
+    font-style: normal;
+    text-align: left;
+    color: #6a6c71;
+  }
+  .GetEvery .container .Newsparent .newsone .two {
+    position: relative;
+    width: 200px;
+    height: 40px;
+    bottom: 50px;
+    font-family: "Inter";
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 18px;
+    font-style: normal;
+    text-align: left;
+    letter-spacing: -1px;
+    color: rgba(25, 25, 25, 0.7);
+  }
+  .GetEvery .container .Newsparent .newsone .kols {
+    position: relative;
+    height: 50%;
+    width: 100%;
+  }
+  .GetEvery .container .Newsparent .newsone .yellowboxing {
+    position: relative;
+    height: 40px;
+    width: 40px;
+    bottom: 120px;
+    left: 5px;
+    background-color: #F9D783;
+    z-index: 2;
+  }
+  .GetEvery .container .Newsparent .newsone .yellowboxing .over {
+    position: relative;
+    width: 25px;
+    height: 20px;
+    top: 9px;
+    left: 12px;
+    font-family: "DM Sans";
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 13px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+    z-index: 4;
+  }
+  .GetEvery .container .Newsparent .newsone .yellowboxing .under {
+    position: relative;
+    width: 20px;
+    height: 12px;
+    bottom: 14px;
+    left: 12px;
+    font-family: "Inter";
+    font-size: 10px;
+    font-weight: normal;
+    line-height: 10px;
+    font-style: normal;
+    text-align: left;
+    letter-spacing: -1px;
+    color: rgba(25, 25, 25, 0.7);
+  }
+  .GetEvery .container .Newsparent .newstwo {
+    position: relative;
+    top: 200px;
+    width: 250px;
+    height: 250px;
+  }
+  .GetEvery .container .Newsparent .newstwo h6 {
+    position: relative;
+    bottom: 45px;
+    height: 40px;
+    width: 180px;
+    font-family: "DM Sans";
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 20px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+  }
+  .GetEvery .container .Newsparent .newstwo .one {
+    bottom: 30px;
+    position: relative;
+    width: 70px;
+    height: 20px;
+    font-family: "Inter";
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 16px;
+    font-style: normal;
+    text-align: left;
+    color: #6a6c71;
+  }
+  .GetEvery .container .Newsparent .newstwo .two {
+    position: relative;
+    width: 200px;
+    height: 40px;
+    bottom: 50px;
+    font-family: "Inter";
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 18px;
+    font-style: normal;
+    text-align: left;
+    letter-spacing: -1px;
+    color: rgba(25, 25, 25, 0.7);
+  }
+  .GetEvery .container .Newsparent .newstwo .kols {
+    height: 50%;
+    width: 100%;
+  }
+  .GetEvery .container .Newsparent .newstwo .yellowboxing {
+    position: relative;
+    height: 40px;
+    width: 40px;
+    bottom: 120px;
+    left: 5px;
+    background-color: #F9D783;
+    z-index: 2;
+  }
+  .GetEvery .container .Newsparent .newstwo .yellowboxing .over {
+    position: relative;
+    width: 25px;
+    height: 20px;
+    top: 9px;
+    left: 12px;
+    font-family: "DM Sans";
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 13px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+    z-index: 4;
+  }
+  .GetEvery .container .Newsparent .newstwo .yellowboxing .under {
+    position: relative;
+    width: 20px;
+    height: 12px;
+    bottom: 14px;
+    left: 12px;
+    font-family: "Inter";
+    font-size: 10px;
+    font-weight: normal;
+    line-height: 10px;
+    font-style: normal;
+    text-align: left;
+    letter-spacing: -1px;
+    color: rgba(25, 25, 25, 0.7);
+  }
+  .GetEvery .container .Newsparent .newsthree {
+    position: relative;
+    top: 200px;
+    width: 250px;
+    height: 250px;
+  }
+  .GetEvery .container .Newsparent .newsthree h6 {
+    position: relative;
+    bottom: 45px;
+    height: 40px;
+    width: 170px;
+    font-family: "DM Sans";
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 20px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+  }
+  .GetEvery .container .Newsparent .newsthree .one {
+    bottom: 30px;
+    position: relative;
+    width: 70px;
+    height: 20px;
+    font-family: "Inter";
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 16px;
+    font-style: normal;
+    text-align: left;
+    color: #6a6c71;
+  }
+  .GetEvery .container .Newsparent .newsthree .two {
+    position: relative;
+    width: 200px;
+    height: 40px;
+    bottom: 50px;
+    font-family: "Inter";
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 18px;
+    font-style: normal;
+    text-align: left;
+    letter-spacing: -1px;
+    color: rgba(25, 25, 25, 0.7);
+  }
+  .GetEvery .container .Newsparent .newsthree .kols {
+    height: 50%;
+    width: 100%;
+  }
+  .GetEvery .container .Newsparent .newsthree .yellowboxing {
+    position: relative;
+    height: 40px;
+    width: 40px;
+    bottom: 120px;
+    left: 5px;
+    background-color: #F9D783;
+    z-index: 2;
+  }
+  .GetEvery .container .Newsparent .newsthree .yellowboxing .over {
+    position: relative;
+    width: 25px;
+    height: 20px;
+    top: 9px;
+    left: 12px;
+    font-family: "DM Sans";
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 13px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+    z-index: 4;
+  }
+  .GetEvery .container .Newsparent .newsthree .yellowboxing .under {
+    position: relative;
+    width: 20px;
+    height: 12px;
+    bottom: 14px;
+    left: 12px;
+    font-family: "Inter";
+    font-size: 10px;
+    font-weight: normal;
+    line-height: 10px;
+    font-style: normal;
+    text-align: left;
+    letter-spacing: -1px;
+    color: rgba(25, 25, 25, 0.7);
+  }

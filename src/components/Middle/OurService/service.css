@@ -1,0 +1,388 @@
+/*Our Services section*/
+.Services {
+    background: #f0efe9;
+  }
+  .Services .container .grandma {
+    width: 900px;
+    display: grid;
+    height: 500px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    gap: 10px;
+    background: #f0efe9;
+  }
+  .Services .container .boxingrubrik {
+    position: relative;
+    top: 25px;
+    left: 90px;
+    height: 110px;
+    width: 280px;
+  }
+  .Services .container .boxingrubrik p {
+    position: relative;
+    top: 12px;
+    height: 25px;
+    width: 100px;
+    color: #F94D1C;
+    font-family: "Inter";
+    font-size: 13px;
+    font-weight: 900;
+    line-height: 22px;
+    font-style: normal;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #f94d1c;
+  }
+  .Services .container .boxingrubrik h4 {
+    position: relative;
+    font-family: "DM Sans";
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 24px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+  }
+  .Services .container .boxing1 {
+    margin-top: 150px;
+    width: 170px;
+    height: 180px;
+    background-color: #ffffff;
+    position: relative;
+    right: 185px;
+  }
+  .Services .container .boxing1 .svartknapp {
+    position: relative;
+    top: 5px;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    left: 130px;
+  }
+  .Services .container .boxing1 .svartknapp .btn-arrow {
+    position: relative;
+    right: 2px;
+    background-color: #191919;
+    border: 1px solid #191919;
+    color: white;
+    text-decoration: none;
+    padding: 8px 11px;
+    font-weight: 600;
+    border-radius: 25px;
+    font-size: 12px;
+  }
+  .Services .container .boxing1 .svartknapp .btn-arrow i {
+    margin-left: 3px;
+    font-size: 0.9em;
+  }
+  .Services .container .boxing1 .svartknapp .btn-arrow:hover {
+    background-color: white;
+    border: 1px solid white;
+    color: #191919;
+  }
+  .Services .container .boxing1 .streck {
+    position: relative;
+    width: 30px;
+    height: 20px;
+    border-bottom: #191919 solid;
+    text-align: left;
+    top: 10px;
+    left: 10px;
+  }
+  .Services .container .boxing1 h6 {
+    position: relative;
+    top: 25px;
+    left: 10px;
+    width: 120px;
+    height: 25px;
+    font-family: "DM Sans";
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 20px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+  }
+  .Services .container .boxing1 p {
+    position: relative;
+    top: 20px;
+    left: 10px;
+    height: 60px;
+    width: 150px;
+    font-family: "Inter";
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 18px;
+    font-style: normal;
+    text-align: left;
+    letter-spacing: 0px;
+    color: rgba(25, 25, 25, 0.7);
+  }
+  .Services .container .boxing1:hover {
+    background-color: #F9D783;
+  }
+  .Services .container .boxing2 {
+    margin-top: 150px;
+    width: 170px;
+    height: 180px;
+    background-color: #ffffff;
+    position: relative;
+    right: 180px;
+  }
+  .Services .container .boxing2 .svartknapp {
+    position: relative;
+    top: 5px;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    left: 130px;
+  }
+  .Services .container .boxing2 .svartknapp .btn-arrow {
+    position: relative;
+    right: 2px;
+    background-color: #191919;
+    border: 1px solid #191919;
+    color: white;
+    text-decoration: none;
+    padding: 8px 11px;
+    font-weight: 600;
+    border-radius: 25px;
+    font-size: 12px;
+  }
+  .Services .container .boxing2 .svartknapp .btn-arrow i {
+    margin-left: 3px;
+    font-size: 0.9em;
+  }
+  .Services .container .boxing2 .svartknapp .btn-arrow:hover {
+    background-color: white;
+    border: 1px solid white;
+    color: #191919;
+  }
+  .Services .container .boxing2 .streck {
+    position: relative;
+    width: 30px;
+    height: 20px;
+    border-bottom: #191919 solid;
+    text-align: left;
+    top: 10px;
+    left: 10px;
+  }
+  .Services .container .boxing2 h6 {
+    position: relative;
+    top: 25px;
+    left: 10px;
+    width: 120px;
+    height: 25px;
+    font-family: "DM Sans";
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 20px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+  }
+  .Services .container .boxing2 p {
+    position: relative;
+    top: 20px;
+    left: 10px;
+    height: 60px;
+    width: 150px;
+    font-family: "Inter";
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 18px;
+    font-style: normal;
+    text-align: left;
+    letter-spacing: 0px;
+    color: rgba(25, 25, 25, 0.7);
+  }
+  .Services .container .boxing2:hover {
+    background-color: #F9D783;
+  }
+  .Services .container .boxing3 {
+    margin-top: 150px;
+    width: 170px;
+    height: 180px;
+    background-color: #ffffff;
+    position: relative;
+    right: 180px;
+  }
+  .Services .container .boxing3 .svartknapp {
+    position: relative;
+    top: 5px;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    left: 130px;
+  }
+  .Services .container .boxing3 .svartknapp .btn-arrow {
+    position: relative;
+    right: 2px;
+    background-color: #191919;
+    border: 1px solid #191919;
+    color: white;
+    text-decoration: none;
+    padding: 8px 11px;
+    font-weight: 600;
+    border-radius: 25px;
+    font-size: 12px;
+  }
+  .Services .container .boxing3 .svartknapp .btn-arrow i {
+    margin-left: 3px;
+    font-size: 0.9em;
+  }
+  .Services .container .boxing3 .svartknapp .btn-arrow:hover {
+    background-color: white;
+    border: 1px solid white;
+    color: #191919;
+  }
+  .Services .container .boxing3 .streck {
+    position: relative;
+    width: 30px;
+    height: 20px;
+    border-bottom: #191919 solid;
+    text-align: left;
+    top: 10px;
+    left: 10px;
+  }
+  .Services .container .boxing3 h6 {
+    position: relative;
+    top: 25px;
+    left: 10px;
+    width: 120px;
+    height: 25px;
+    font-family: "DM Sans";
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 20px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+  }
+  .Services .container .boxing3 p {
+    position: relative;
+    top: 20px;
+    left: 10px;
+    height: 60px;
+    width: 150px;
+    font-family: "Inter";
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 18px;
+    font-style: normal;
+    text-align: left;
+    letter-spacing: 0px;
+    color: rgba(25, 25, 25, 0.7);
+  }
+  .Services .container .boxing3:hover {
+    background-color: #F9D783;
+  }
+  .Services .container .boxing4 {
+    margin-top: 150px;
+    width: 170px;
+    height: 180px;
+    background-color: #ffffff;
+    position: relative;
+    right: 180px;
+  }
+  .Services .container .boxing4 .svartknapp {
+    position: relative;
+    top: 5px;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    left: 130px;
+  }
+  .Services .container .boxing4 .svartknapp .btn-arrow {
+    position: relative;
+    right: 2px;
+    background-color: #191919;
+    border: 1px solid #191919;
+    color: white;
+    text-decoration: none;
+    padding: 8px 11px;
+    font-weight: 600;
+    border-radius: 25px;
+    font-size: 12px;
+  }
+  .Services .container .boxing4 .svartknapp .btn-arrow i {
+    margin-left: 3px;
+    font-size: 0.9em;
+  }
+  .Services .container .boxing4 .svartknapp .i :hover {
+    background-color: white;
+    border: 1px solid white;
+    color: #191919;
+  }
+  .Services .container .boxing4 .streck {
+    position: relative;
+    width: 30px;
+    height: 20px;
+    border-bottom: #191919 solid;
+    text-align: left;
+    top: 10px;
+    left: 10px;
+  }
+  .Services .container .boxing4 h6 {
+    position: relative;
+    top: 25px;
+    left: 10px;
+    width: 120px;
+    height: 25px;
+    font-family: "DM Sans";
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 20px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+  }
+  .Services .container .boxing4 p {
+    position: relative;
+    top: 20px;
+    left: 10px;
+    height: 60px;
+    width: 150px;
+    font-family: "Inter";
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 18px;
+    font-style: normal;
+    text-align: left;
+    letter-spacing: 0px;
+    color: rgba(25, 25, 25, 0.7);
+  }
+  .Services .container .boxing4:hover {
+    background-color: #F9D783;
+  }
+  .Services .container .knappenkn {
+    position: relative;
+    bottom: 25px;
+    left: 380px;
+    width: 170px;
+    height: 40px;
+  }
+  .Services .container .knappenkn .btn-provide {
+    border: 1px solid #191919;
+    color: #191919;
+    text-decoration: none;
+    padding: 8px 18px;
+    font-weight: 600;
+    border-radius: 25px;
+    font-size: 12px;
+  }
+  .Services .container .knappenkn .btn-provide i {
+    margin-left: 8px;
+    font-size: 0.9em;
+  }
+  .Services .container .knappenkn .btn-provide:hover {
+    background-color: #191919;
+    border: 1px solid #191919;
+    color: #e5eaec;
+  }
+
+.arrow :hover{
+
+color: #191919;
+
+
+}

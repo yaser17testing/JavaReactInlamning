@@ -1,0 +1,143 @@
+/*Our Account is trusted by thousand of companies section*/
+.feutares .container .mommy {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    grid: 5px;
+    width: 1000px;
+    height: 430px;
+    border-color: rgba(25, 25, 25, 0.2);
+    border-width: 1.2000000477px;
+    border-style: solid;
+    border-radius: 2px;
+    background: #ffffff;
+    flex-wrap: wrap;
+  }
+  .feutares .container .mommy .main-div {
+    grid-column: 1/2;
+    grid-row: 1/3;
+    height: 350px;
+    width: 400px;
+    padding: 80px;
+  }
+  .feutares .container .mommy .main-div .rubrikmaintext {
+    position: relative;
+    right: 10px;
+    bottom: 20px;
+    width: 260px;
+    height: 140px;
+  }
+  .feutares .container .mommy .main-div .rubrikmaintext h4 {
+    position: relative;
+    bottom: 5px;
+    font-family: "DM Sans";
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 28px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+  }
+  .feutares .container .mommy .main-div .rubrikmaintext p {
+    position: relative;
+    font-family: "Inter";
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 15px;
+    font-style: normal;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #f94d1c;
+  }
+  .feutares .container .mommy #underett {
+    position: relative;
+  }
+  .feutares .container .mommy #undertva {
+    position: relative;
+  }
+  .feutares .container .mommy .small-div {
+    position: relative;
+    top: 30px;
+    right: 90px;
+    height: 180px;
+    width: 200px;
+  }
+  .feutares .container .mommy .small-div .tecken {
+    position: relative;
+    top: 30px;
+    height: 30px;
+    width: 30px;
+  }
+  .feutares .container .mommy .small-div .tecken i {
+    font-size: 20px;
+  }
+  .feutares .container .mommy .small-div h5 {
+    position: relative;
+    top: 40px;
+    width: 160px;
+    height: 30px;
+    font-family: "DM Sans";
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 23px;
+    font-style: normal;
+    text-align: left;
+    color: #191919;
+  }
+  .feutares .container .mommy .small-div p {
+    position: relative;
+    height: 50px;
+    width: 170px;
+    top: 30px;
+    font-family: "Inter";
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 15px;
+    font-style: normal;
+    text-align: left;
+    letter-spacing: 0px;
+    color: rgba(25, 25, 25, 0.7);
+  }
+  .feutares .container .mommy .knappeni {
+    position: relative;
+    height: 50px;
+    width: 295px;
+    top: 30px;
+    position: relative;
+    right: 30px;
+  }
+  .feutares .container .mommy .knappeni .btn-second {
+    position: relative;
+    left: 10px;
+    top: 10px;
+    background-color: #F9D783;
+    border: 1px solid #F9D783;
+    color: #191919;
+    text-decoration: none;
+    padding: 8px 85px;
+    font-weight: 600;
+    border-radius: 25px;
+    font-size: 16px;
+  }
+  .feutares .container .mommy .knappeni .btn-second i {
+    margin-left: 4px;
+    font-size: 0.9em;
+  }
+  .feutares .container .mommy .knappeni .btn-second:hover {
+    background-color: #191919;
+    border: 1px solid #191919;
+    color: #e5eaec;
+  }
+
+
+
+  .overimg{
+
+height: 25px;
+
+
+  }
+
+  .underimg{
+
+    height: 25px;
+  }
